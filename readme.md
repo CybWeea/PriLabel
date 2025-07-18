@@ -3,7 +3,7 @@
 A tool for analyzing APK files.
 
 ## Executable JAR Package
-[executable JAR package]([https://github.com/CybWeea/PriLabel/releases/download/PriLabel/PriLabel.jar](https://github.com/CybWeea/PriLabel/releases/download/JAR/PriLabel.jar))
+[executable JAR package](https://github.com/CybWeea/PriLabel/releases/download/JAR/PriLabel.jar)
 
 ## Requirements
 - Java Runtime Environment (JRE) 8 or later
